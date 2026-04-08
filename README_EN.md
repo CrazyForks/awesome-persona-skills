@@ -25,6 +25,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Anti-Distill.skill | Company wants you to write a Skill? Run this once, turn it in, keep the core knowledge to yourself | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
 | Parents.skill | Every conversation is companionship across time and space | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
 | Supervisor.skill | Distill your supervisor into an AI Skill you can ask anytime | [ybq22/supervisor](https://github.com/ybq22/supervisor) |
+| Professor.skill | If the teacher doesn't highlight key points, then create a teacher who does | [CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
 | Senpai.skill | Distill your graduated senior into an AI Skill that continues lab meetings, wakes you up, and puts out fires | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
 | Digital Life.skill | You are not defined by data. But you are slowly shaped by the traces you leave behind | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | Reunion.skill | Let departed loved ones continue to accompany you in another form through AI | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
