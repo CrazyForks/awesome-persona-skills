@@ -25,6 +25,7 @@
 | 反蒸馏.skill |公司让你写 Skill？跑一遍，交差用，核心知识留给自己。|[leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
 | 父母.skill |每一次对话，都是穿越时空的陪伴 |[xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
 | 导师.skill |把导师蒸馏成随时可问的 AI Skill |[ybq22/supervisor](https://github.com/ybq22/supervisor) |
+| 大学老师.skill |老师不划重点，那就自己造一个会划重点的老师 |[CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
 | 师兄.skill |把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill |[zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
 | 数字人生.skill |你不是被数据定义的人。但你会被自己反复留下的痕迹，慢慢塑形。 |[wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | 重逢.skill | 用 AI 的方式，让逝去的亲人以另一种形式继续陪伴。|[yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
