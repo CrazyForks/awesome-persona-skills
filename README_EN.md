@@ -44,7 +44,6 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Immortal.skill | Don't just steam buns to prove a point! While you're at it, distill the people around you too | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
 | Relic.skill | Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | RetailInvestor.skill | If I had another chance, I would definitely sell when I'm making money | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
-| Khazix.skill | Open-source AI Skills collection from digital life Khazix | [KKKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ### 💡 Business Mindset and Internet Celebrities
 
@@ -64,6 +63,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
+| Khazix.skill | Open-source AI Skills collection from digital life Khazix | [KKKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ### 🙏 Traditional Culture & Philosophy
 
