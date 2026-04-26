@@ -28,7 +28,9 @@
 
 [🙏 传统文化与哲学](#传统文化与哲学) 
 
-[🌈 情感陪伴](#情感陪伴) 
+[🌈 情感陪伴](#情感陪伴)
+
+[🗂️ 合集收藏](#合集收藏)
 
 [🛠️ 工具类](#工具类)
 
@@ -115,6 +117,10 @@
 - [达尔文.skill](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills
 - [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill
 - [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - 制作电子杂志风网页 PPT
+
+### 合集收藏
+
+- [AI人格蒸馏Skills合集](https://github.com/momozi1996/awesome-ai-persona-skills) - 全网最全、持续更新的100+人格蒸馏skills合集｜名人/古籍/二次元/职场/情感全品类，含独家手工蒸馏的顶级作家创作思维。
 
 ---
 

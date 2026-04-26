@@ -28,6 +28,8 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 [🌈 Emotional Companionship](#emotional-companionship)
 
+[🗂️ Collections](#collections)
+
 [🛠️ Tools](#tools)
 
 ### Workplace & Academia
@@ -113,6 +115,10 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Darwin.skill](https://github.com/alchaincyf/darwin-skill) - Optimize your Agent Skills the way you train models
 - [BloggerDistiller.skill](https://github.com/otter1101/blogger-distiller) - Not relying on feeding, but taking the initiative — automatically crawl all notes from any Xiaohongshu blogger and distill a directly installable creation guide Skill.
 - [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - Create digital magazine-style web presentations
+
+### Collections
+
+- [AI Persona Skills Collection](https://github.com/momozi1996/awesome-ai-persona-skills) - The web's most comprehensive, continuously updated collection of 100+ distilled skills spanning celebrities/classics/anime/workplace/relationships — plus exclusive novelists' writing styles.
 ---
 
 ## 🧠 One-Line Philosophy
