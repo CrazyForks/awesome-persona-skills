@@ -110,6 +110,7 @@
 
 ### 工具类
 
+- **[AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec)** - Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes. Works with Claude Code/Cursor/Codex. v4.9.7.
 - [饕餮.skill](https://github.com/binggandata/bggg-skill-taotie) - 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化
 - [女娲.skill](https://github.com/alchaincyf/nuwa-skill) - 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工
 - [X导师.skill](https://github.com/alchaincyf/x-mentor-skill) - 格式化是你能对写作做的最简单的10倍提升
